@@ -1,0 +1,114 @@
+body{
+    background-color: aqua;
+}
+.clear {
+    clear: both;
+}
+.site-boshi{
+    margin: 0;
+    padding: 30px 50px;
+    margin-bottom: 80px;
+}
+.bookmark{
+    margin: 0;
+    padding: 0;
+    float: left;
+    font-size: 20px;
+}
+.site-nav{
+    float: right;
+}
+.link-list{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+   
+}
+.link-item{
+    display: inline-block;
+}
+.link{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+}
+.looin{
+    padding: 4px 15px;
+    float: right;
+    background-color: red ; 
+    border: 2px solid red;
+    border-radius: 3px;
+}
+.link:active{
+    color: red;
+}
+.looin:active{
+    color: red;
+    background-color: bisque;
+    border: 2px solid red;
+    border-radius: 3px;
+}   
+
+.section{
+    margin: 0;
+    padding: 0;
+}
+.left{
+    margin: 0;
+    margin-right: 40px;
+    width: 350px;
+    padding: 0 50px;
+    float: left;
+}
+.sarlavha{
+    margin: 0;
+    padding: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.teks{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 35px;    
+}
+.chrome{
+    margin: 0;
+    padding: 10px 15px;
+    color: aliceblue;
+    background-color: blue;
+    border: 2px solid blue;
+    border-radius: 3%;
+}
+.firefox{
+    margin: 0;
+    padding: 10px 15px;
+    color:black;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 3%;
+}
+.right{
+    margin: 0;
+    padding: 0;
+    float: left;
+
+}
+.img{
+    width: 300px;
+    display: inline-block;
+    border: 10px solid black;
+    border-radius: 10px;
+}
+.chrome:active{
+    color: cornflowerblue;
+    background-color: azure;
+    border: 2px solid cornflowerblue;
+    border-radius: 3px;
+}
+.firefox:active{
+    color: darkslateblue;
+    background-color: antiquewhite;
+    border: 2px solid darkslateblue ;
+    border-radius: 3px;
+}
+
